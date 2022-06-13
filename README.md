@@ -1,5 +1,5 @@
 
-Tugas UAS pemrograman web kelompok 2 
+<h1>Tugas UAS pemrograman web kelompok 2</h1>
 KELAS: TIK2032C
 
 ANGGOTA: 
